@@ -1,0 +1,30 @@
+<svg width="200" height="380" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="202" height="382" id="canvas_background" fill="#fff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" fill="#fff" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="5.545501" y="25.454566" width="187.727266" height="349.363638" id="svg_37"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="7.272769" y="19.09093" id="svg_38" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">class</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="21.818222" y="46.363655" id="svg_39" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">x=5</text>
+  <rect fill="#fff" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x="14.363677" y="288.00001" width="151.818165" height="75.454539" id="svg_41" stroke="#000"/>
+  <text style="cursor: move;" fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="20.09095" y="80.818198" id="svg_43" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">outer_func</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="18.909131" y="276.090917" id="svg_44" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">func1</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="17.818222" y="319.090914" id="svg_47" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">print(y)</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="88.660928" y="316.975505" id="svg_48" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">raises error</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="25.363677" y="346.454547" id="svg_49" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">z=10</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="65.454583" y="44.545473" id="svg_51" font-size="14" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">global variable</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="85.503051" y="339.000003" id="svg_52" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">local variable</text>
+  <rect stroke="#000" id="svg_1" height="155.000012" width="159.000004" y="88.5" x="13.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text style="cursor: move;" fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="20.09095" y="138.818198" id="svg_3" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">inner_func</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="24.454586" y="114.090923" id="svg_5" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">x=10</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="87.582643" y="109.181833" id="svg_7" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">local variable</text>
+  <rect stroke="#000" id="svg_9" height="80.000005" width="124.000013" y="148.500001" x="18.49999" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="23.363676" y="191.181831" id="svg_10" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">nonlocal x=20</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="24.582643" y="166.181833" id="svg_12" font-size="12" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000">non local variable</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="26.363676" y="218.181831" id="svg_14" font-size="18" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">y=20</text>
+ </g>
+</svg>
